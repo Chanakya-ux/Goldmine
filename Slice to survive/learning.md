@@ -1,0 +1,1 @@
+###Thought it was a simulation while it was a classic minimax algorithm. never seen this algo before.didnt quite understood why the simulation leads to wrong answer.
