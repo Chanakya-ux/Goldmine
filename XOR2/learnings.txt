@@ -1,0 +1,2 @@
+https://codeforces.com/contest/2162/problem/C
+Learnt a lot of bitwise operations.
