@@ -1,0 +1,4 @@
+https://codeforces.com/problemset/problem/2145/C
+
+came to know that there is a thing like this :
+   lst = {0:-1}
